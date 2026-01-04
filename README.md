@@ -47,6 +47,10 @@ An interactive dashboard was created to help business owners understand sales tr
 ## 📁 Files Included
 - Excel Dashboard (.xlsx)
 - Screenshots of dashboard & pivots
+- <img width="938" height="392" alt="image" src="https://github.com/user-attachments/assets/40a61649-d576-4b04-b7fc-4018a697bbe7" />
+<img width="667" height="306" alt="image" src="https://github.com/user-attachments/assets/a5bbae6a-bf9f-4383-8ee3-e21ec1bed1b0" />
+
+
 
 ---
 
